@@ -35,7 +35,7 @@ Chatbot usando recuperação de contexto (RAG) para responder perguntas com prec
 - FAISS / ChromaDB  
 - Embeddings  
 - Aplicação web com Streamlit  
-📁 Código: 
+📁 Código: https://github.com/wsousa-dev/chatbot_LLM_RAG.git
 
 ---
 
