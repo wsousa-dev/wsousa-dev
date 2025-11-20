@@ -50,10 +50,10 @@ Pipeline completo:
 ---
 
 ## 📚 Certificações e Cursos
-- Machine Learning — Coursera/Google  
-- Fundamentos de IA — Microsoft  
-- Python para Dados — Alura  
-- Engenharia de Prompt — OpenAI  
+- Machine Learning 
+- Fundamentos de IA  
+- Python para Dados 
+- Engenharia de Prompt
 
 ---
 
