@@ -51,9 +51,11 @@ Pipeline completo:
 
 ## 📚 Certificações e Cursos
 - Machine Learning 
-- Fundamentos de IA  
-- Python para Dados 
-- Engenharia de Prompt
+- Fundamentos de IA
+- Python para Dados
+- Agente de Disparo de Serviço para Atrair Leads - Dev Club
+- SQL - Dataclub - Dev Club
+- Cybersecurity - CECyber
 
 ---
 
