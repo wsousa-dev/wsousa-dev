@@ -56,6 +56,7 @@ Pipeline completo:
 - Agente de Disparo de Serviço para Atrair Leads - Dev Club
 - SQL - Dataclub - Dev Club
 - Cybersecurity - CECyber
+- Nodejs - Dev Club
 
 ---
 
